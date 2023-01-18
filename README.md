@@ -27,3 +27,4 @@ You can reach me in valcoellar@gmail.com
 
 
 - ⚡ Fun facts: ... Cats and Keyboards are not good friends !!  XD
+npm run start:deno
