@@ -15,4 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+I like learning and implementing new technologies and being able to have a positive impact on people's lives.
+
+With creative thinking, problem solving, teamwork, communication and autonomy.
+
+- 🔭 I’m currently working on ... VVMyMoney Proyect
+- 🌱 I’m currently learning ... Clojure Programming Language
+
+- 📫 How to reach me: ...
 You can reach me in valcoellar@gmail.com 
+
+
+- ⚡ Fun facts: ... Cats and Keyboards are not good friends !!  XD
