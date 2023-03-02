@@ -19,7 +19,6 @@ I like learning and implementing new technologies and being able to have a posit
 
 With creative thinking, problem solving, teamwork, communication and autonomy.
 
-- 🔭 I’m currently working on ... Js Quick Reference
 - 🔭 I’m currently working on ... Firebird Db proyect
 - 🔭 I’m currently working on ... VVMyMoney Proyect
 - 🌱 I’m currently learning ... Clojure Programming Language
