@@ -44,6 +44,7 @@ Some of my tools:
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png" alt="php" title="php" /></code>
+	<code><img height="50" src="https://github.com/valcoellar/valcoellar/blob/main/jquery_vertical_logo_icon_169489.png" alt="Jquery" title="Jquery" /></code>
 </div>
 
 
