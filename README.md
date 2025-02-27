@@ -19,7 +19,7 @@ I like learning and implementing new technologies and being able to have a posit
 
 With creative thinking, problem solving, teamwork, communication and autonomy.
 
-- 🔭 I’m currently working on ... Rust
+- 🔭 I’m currently working on ... FreePascal
 
 
 
