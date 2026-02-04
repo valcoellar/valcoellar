@@ -19,12 +19,12 @@ I like learning and implementing new technologies and being able to have a posit
 
 With creative thinking, problem solving, teamwork, communication and autonomy.
 
-- 🔭 I’m currently working on ... Rust Proyect
+- 🔭 I’m currently working on ... Vlang Proyect
 
 
 
 - 📫 How to reach me: ...
-You can reach me in valcoellar@gmail.com 
+You can reach me in direccion@gruponucleon.com 
 
 Some of my tools:
 <div align="center">
