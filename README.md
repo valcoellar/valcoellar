@@ -30,7 +30,7 @@ Some of my tools:
 <div align="center">
 	<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="Rust" title="Rust" /></code>
 	<code><img height="50" src="https://vlang.io/img/v-logo.png" alt="Vlang" title="Vlang" /></code>
-	<code><img height="50" src="https://ring-lang.github.io/resources/img/logo.png" alt="Ring" title="Ring" /></code>
+	<code><img height="50" src="https://img.shields.io/badge/Ring-blue?style=for-the-badge&logo=ring&logoColor=white" alt="Ring" title="Ring" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js" /></code>
